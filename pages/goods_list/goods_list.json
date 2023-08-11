@@ -1,0 +1,7 @@
+{
+    "usingComponents": {
+        "SearchInput": "../../compoents/searchInput/searchInput",
+        "Tabs": "../../compoents/Tabs/Tabs"
+    },
+    "navigationBarTitleText": "商品列表"
+}
